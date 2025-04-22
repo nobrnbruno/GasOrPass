@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gas or Pass</string>
+    <string name="description_return">Return</string>
+    <string name="body_gas_or_pass">Gas or ethanol, which one is worth more today? Do the math easily by inputting each price</string>
+    <string name="input_gas_liter">Gasoline liter</string>
+    <string name="input_ethanol_liter">Ethanol liter</string>
+    <string name="efficiency_message">Select your car\'s engine efficiency</string>
+    <string name="clear_action">Clear</string>
+    <string name="decide_action">Decide</string>
+    <string name="result_ethanol">Ethanol is worth more!</string>
+    <string name="result_gas">Better to stay on gas...</string>
+    <string name="result_repeat">Insert acceptable values.</string>
+    <string name="description_add">add</string>
+    <string name="description_calculate">calculate</string>
+    <string name="card_gas">Gas</string>
+    <string name="card_ethanol">Ethanol</string>
+    <string name="gas_station">Gas station</string>
+    <string name="warning_prices">Fill the prices\' input fields correctly</string>
+    <string name="warning_inputs">Fill all input fields correctly</string>
+    <string name="input_gas_station">Gas station name</string>
+    <string name="location">Location</string>
+    <string name="save_action">Save</string>
+</resources>

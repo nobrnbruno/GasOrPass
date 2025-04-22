@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Gas or Pass</string>
+    <string name="app_name" translatable="false">Gas or Pass</string>
+
+    <string name="description_return">Retornar</string>
+    <string name="body_gas_or_pass">Gasolina ou etanol, qual vale mais a pena hoje? Faça esse cálculo facilmente inserindo abaixo o preço de cada um</string>
+    <string name="input_gas_liter">Litro da gasolina</string>
+    <string name="input_ethanol_liter">Litro do etanol</string>
+    <string name="efficiency_message">Selecione o rendimento do álcool no modelo do seu carro</string>
+    <string name="clear_action">Limpar</string>
+    <string name="decide_action">Decidir</string>
+    <string name="result_ethanol">Etanol vale mais a pena!</string>
+    <string name="result_gas">Melhor usar gasolina mesmo...</string>
+    <string name="result_repeat">Insira valores válidos.</string>
+
+    <string name="description_add">adicionar</string>
+    <string name="description_calculate">calcular</string>
+    <string name="card_gas">Gasolina</string>
+    <string name="card_ethanol">Etanol</string>
+
+    <string name="gas_station">Posto</string>
+    <string name="warning_prices">Preencha os preços corretamente</string>
+    <string name="warning_inputs">Preencha todos os campos corretamente</string>
+    <string name="input_gas_station">Nome do posto</string>
+    <string name="location">Localização</string>
+    <string name="save_action">Salvar</string>
 </resources>
